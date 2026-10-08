@@ -1,6 +1,20 @@
 {
 	"title": "Burrito Grinch (Ultimatum) Playermodel",
 	"type": "model",
-	"tags": ["fun", "cartoon"],
-	"ignore": ["source/*", "tests/*", "tools/*", "workshop/*", "docs/*", "*.md", ".git*", "*.py", "*.sh"]
+	"tags": [
+		"fun",
+		"cartoon"
+	],
+	"ignore": [
+		"source/*",
+		"tests/*",
+		"tools/*",
+		"workshop/*",
+		"docs/*",
+		"*.md",
+		".git*",
+		"*.py",
+		"*.sh"
+	],
+	"description": "[h1]Have you truly become a monster?[/h1]\nThe dancing Grinch from 1:30 of PilotRedSun's [i]Grinch's Ultimatum[/i]: leather jacket, white tee, yellow-green neck fluff, belt and jeans. Now he's a player model, ready to dance in the park on any map.\n\n[quote][b]The original:[/b]  [url=https://www.youtube.com/watch?v=BuKft9LpL_0&t=90s]Grinch's Ultimatum by PilotRedSun (YouTube, 1:30)[/url]\n[b]Bugs and ideas:[/b]  [url=https://github.com/StevenNaliwajka/gmod-grinch/issues]github.com/StevenNaliwajka/gmod-grinch/issues[/url][/quote]\n\n[h2]What you get[/h2]\n[list]\n[*][b]The Grinch as a player model.[/b] Pick [b]Burrito Grinch (Ultimatum)[/b] in the player model menu (C menu > Player Model).\n[*][b]The dance.[/b] Type [b]act dance[/b] in console and he does the park dance (that's him in the preview).\n[*][b]Every animation works.[/b] He's built on the stock ValveBiped skeleton, bone for bone, so walking, running, sitting, holding guns and every taunt play properly.\n[*][b]Green claws in first person.[/b] Matching hands with the jacket cuffs when you hold a weapon.\n[*][b]Ragdolls.[/b] He flops like a regular citizen when he dies.\n[*][b]Cartoon look.[/b] Flat colours with black outlines, like the video's hand-drawn style.\n[*][b]Flame hair, smug eyes and a smirk.[/b] Tall green tufts, half-lidded yellow eyes, orange brows and a pink smirk.\n[*][b]Works on servers.[/b] It sends its own files to players, so friends see him too.\n[/list]\n\n[h2]How to use[/h2]\n[list]\n[*]Subscribe.\n[*]Hold C, click [b]Player Model[/b], and pick [b]Burrito Grinch (Ultimatum)[/b].\n[*]Type [b]act dance[/b] in console and recreate 1:30.\n[/list]\n\n[h2]Notes[/h2]\n[list]\n[*]One model, no bodygroups or skins (yet).\n[*]Fan work, made for fun. The Grinch belongs to Dr. Seuss Enterprises; this design and the animation belong to PilotRedSun. Go watch the original.\n[/list]"
 }
