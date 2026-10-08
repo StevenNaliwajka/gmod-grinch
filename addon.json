@@ -1,0 +1,6 @@
+{
+	"title": "Burrito Grinch (Ultimatum) Playermodel",
+	"type": "model",
+	"tags": ["fun", "cartoon"],
+	"ignore": ["source/*", "tests/*", "tools/*", "*.md", ".git*", "*.py", "*.sh"]
+}
