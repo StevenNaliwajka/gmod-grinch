@@ -2,7 +2,11 @@
 
 The dancing Grinch from PilotRedSun's *The Grinch's Ultimatum* (1:30): leather jacket,
 white tee, yellow-green neck ruff, belt and jeans, as a Garry's Mod player model with
-matching first-person hands.
+matching first-person hands. In game: `act dance`.
+
+![dance](docs/dance.gif)
+
+Original video: [Grinch's Ultimatum by PilotRedSun](https://www.youtube.com/watch?v=BuKft9LpL_0&t=90s) (1:30).
 
 ![compare](docs/compare.png)
 
